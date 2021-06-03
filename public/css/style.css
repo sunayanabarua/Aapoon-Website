@@ -1,0 +1,108 @@
+body {
+  color: #835858;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  line-height: 2.5;
+}
+
+.navbar-brand {
+  height: 60px;
+  width: 100px;
+}
+
+.nav-link {
+  font-family: "Montserrat-Light", "sans-serif";
+  font-size: 1rem;
+}
+
+.container-fluid {
+  /* padding: 2%; */
+
+}
+
+.big-heading {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  padding: 2%;
+  color: #835858;
+}
+
+.medium-heading {
+  font-size: 2.5rem;
+  font-style: italic;
+  padding: 2%;
+  color: #835858;
+}
+
+#intro-image-text{
+  margin:3% 7%;
+}
+
+#title-intro {
+  text-align: center;
+  padding: 5%;
+  font-style: italic;
+}
+
+.title-pic {
+  max-height: 100%;
+  max-width: 100%;
+  position: relative;
+}
+
+/*Feature Box*/
+#Trending{
+  padding:3% 7%;
+}
+
+.feature-apparel-img {
+  max-height: 100%;
+  max-width: 100%;
+  float: right;
+  padding: 5% 5%;
+}
+
+.feature-home-img {
+  max-height: 60%;
+  max-width: 60%;
+  float: right;
+  padding: 3% 3%;
+}
+
+.feature-title{
+  text-align: center;
+  font-family: "Montserrat-Black";
+}
+
+.feature-text {
+  padding-right: 50%;
+  text-align: justify;
+}
+/*About us*/
+.about-image{
+  max-width: 30%;
+  max-height: auto;
+
+}
+
+/*Download section*/
+.download-button {
+  margin: 5% 3% 5% 3%;
+}
+#App-download{
+  padding: 2%;
+}
+
+.card-img{
+  width: 10%;
+  height: 20%;
+}
+.colored-section{
+  background-color: #EEE2DC;
+}
